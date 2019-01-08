@@ -1,1 +1,1 @@
-Hello Git and GitHub
+This project is not yet completed and currently a work-in-progress.
